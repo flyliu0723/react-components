@@ -7,11 +7,6 @@
 
 组件样式使用 `styled-components` 
 
-## 安装
-
-```bash
-yarn add http://git.tong.local/frontend-library/react-ui.git
-```
 
 ## 组件
 
