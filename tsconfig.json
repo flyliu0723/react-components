@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "lib/types",
+        "jsx": "react",
+        "lib": [
+            "es2015",
+            "es2017",
+            "dom"
+        ],
+        "module": "commonjs",
+        "outDir": "lib/",
+        "target": "es5",
+        "removeComments": true,
+        "sourceMap": false
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
